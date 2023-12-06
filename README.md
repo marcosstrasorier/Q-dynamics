@@ -1,1 +1,1 @@
-# QuasarDynamics
+Q[dynamics]
